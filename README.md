@@ -28,12 +28,12 @@ This project is about analyzing a database that contains data of more than 10,00
 
 This database can be explored in many ways. There are many insights that can be derived from it. However, in this proejct, the exploration will be constrained around the following research questions:
 
-- RQ1: Which year had the highest movie releases?
-- RQ2: In which month were most movie releases of all time?
-- RQ3: What are the most popular movie genres of all time?
-- RQ4: What are the 10 most profitable movies of all time?
-- RQ5: How do budget and runtime affect the popularity of the movie?
-- RQ6: How does the popularity of the movie affect revenue, profit, vote count and average vote?
+* RQ1: Which year had the highest movie releases?
+* RQ2: In which month were most movie releases of all time?
+* RQ3: What are the most popular movie genres of all time?
+* RQ4: What are the 10 most profitable movies of all time?
+* RQ5: How do budget and runtime affect the popularity of the movie?
+* RQ6: How does the popularity of the movie affect revenue, profit, vote count and average vote?
 
 ## Results
 From our investigation, we can conclude that:
