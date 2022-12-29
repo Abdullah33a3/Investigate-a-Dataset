@@ -15,24 +15,25 @@ This project is about analyzing a database that contains data of more than 10,00
 * director : The movie's director.
 * tagline : The tagline of the movie.
 * keywords : Keywords that are associated with the movie.
-overview : A brief description of the movie.
-runtime : Total running time of the movie in minutes.
-genres : Category of the movie (Action, Drama, .. etc).
-production_companies : The companies that produced the movie.
-release_date : The date on which the movie was released to the public.
-vote_count : Number of voters.
-vote_average : The average rating of the movie.
-release_year : The year on which the movie was released.
-budget_adj : Movie's budget in terms of US dollar value in 2010.
-revenue_adj : Movie's revenue in terms of US dollar value in 2010.
+* overview : A brief description of the movie.
+* runtime : Total running time of the movie in minutes.
+* genres : Category of the movie (Action, Drama, .. etc).
+* production_companies : The companies that produced the movie.
+* release_date : The date on which the movie was released to the public.
+* vote_count : Number of voters.
+* vote_average : The average rating of the movie.
+* release_year : The year on which the movie was released.
+* budget_adj : Movie's budget in terms of US dollar value in 2010.
+* revenue_adj : Movie's revenue in terms of US dollar value in 2010.
+
 This database can be explored in many ways. There are many insights that can be derived from it. However, in this proejct, the exploration will be constrained around the following research questions:
 
-RQ1: Which year had the highest movie releases?
-RQ2: In which month were most movie releases of all time?
-RQ3: What are the most popular movie genres of all time?
-RQ4: What are the 10 most profitable movies of all time?
-RQ5: How do budget and runtime affect the popularity of the movie?
-RQ6: How does the popularity of the movie affect revenue, profit, vote count and average vote?
+- RQ1: Which year had the highest movie releases?
+- RQ2: In which month were most movie releases of all time?
+- RQ3: What are the most popular movie genres of all time?
+- RQ4: What are the 10 most profitable movies of all time?
+- RQ5: How do budget and runtime affect the popularity of the movie?
+- RQ6: How does the popularity of the movie affect revenue, profit, vote count and average vote?
 
 ## Results
 From our investigation, we can conclude that:
